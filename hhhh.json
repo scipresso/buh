@@ -1,0 +1,22 @@
+{
+  "title": "hhhh",
+  "description": "poo",
+  "artist": "me",
+  "author": "me",
+  "cover": "https://i.imgur.com/rEsnvuH.png",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1708757702",
+      "groups": {
+        "tge ibe": [
+          "https://i.imgur.com/rEsnvuH.png",
+          "https://i.imgur.com/rEsnvuH.png",
+          "https://i.imgur.com/rEsnvuH.png",
+          "https://i.imgur.com/rEsnvuH.png"
+        ]
+      }
+    }
+  }
+}
